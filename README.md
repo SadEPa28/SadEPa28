@@ -3,7 +3,7 @@
 - 🌱 我目前正在学习 Unity和UE5
 - 📫 如何联系我 邮箱：sadepa0628@outlook.com QQ：1943534344
 - ⚡ 有趣的事实： 我目前是一名十一岁的六年级小学生
-关于SadEPa0628账号：那是我的旧账号，由于我对Windows造成了惊吓而引起了神之嘲讽效应，这导致我失去了对SadEPa0628的访问权限，这就像蛋黄酱跳踢踏舞一样悲伤
+-  关于SadEPa0628账号：那是我的旧账号，由于我对Windows造成了惊吓而引起了神之嘲讽效应，这导致我失去了对SadEPa0628的访问权限，这就像蛋黄酱跳踢踏舞一样悲伤
 
 <!---
 SadEPa28/SadEPa28 是一个✨特殊✨的版本库，因为它的✨README.md `（此文件）会出现在你的 GitHub 配置文件中。
@@ -17,7 +17,7 @@ SadEPa28/SadEPa28 是一个✨特殊✨的版本库，因为它的✨README.md `
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email:sadepa0628@outlook.com QQ:1943534344
 - ⚡ Fun fact: I am currently an eleven year old sixth grader
-Regarding the SadEPa0628 account: that's my old account, which caused a God's Taunt effect due to the scare I caused Windows, which caused me to lose access to SadEPa0628, which is about as sad as mayonnaise tap dancing
+-  Regarding the SadEPa0628 account: that's my old account, which caused a God's Taunt effect due to the scare I caused Windows, which caused me to lose access to SadEPa0628, which is about as sad as mayonnaise tap dancing
 
 <!---
 SadEPa28/SadEPa28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
